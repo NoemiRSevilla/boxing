@@ -1,0 +1,11 @@
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/boxing/bin/Debug/netcoreapp2.2/boxing.deps.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/boxing/bin/Debug/netcoreapp2.2/boxing.runtimeconfig.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/boxing/bin/Debug/netcoreapp2.2/boxing.runtimeconfig.dev.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/boxing/bin/Debug/netcoreapp2.2/boxing.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/boxing/bin/Debug/netcoreapp2.2/boxing.pdb
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/boxing/obj/Debug/netcoreapp2.2/boxing.csprojAssemblyReference.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/boxing/obj/Debug/netcoreapp2.2/boxing.csproj.CoreCompileInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/boxing/obj/Debug/netcoreapp2.2/boxing.AssemblyInfoInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/boxing/obj/Debug/netcoreapp2.2/boxing.AssemblyInfo.cs
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/boxing/obj/Debug/netcoreapp2.2/boxing.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/first_day/boxing/obj/Debug/netcoreapp2.2/boxing.pdb
